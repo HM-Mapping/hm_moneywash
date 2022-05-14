@@ -2,16 +2,22 @@
 
 ## Introduction
 
-> A moneywash script for the ESX framework
+> A moneywash script for the ESX framework.
+
+> Default config works perfectly with [Her Majesty's Moneywash MLO](https://youtu.be/ioH8FckOodw).
 
 ## Installation
 
-> Drag and drop hm_moneywash into your resources folder and add `ensure hm_moneywash` to your `server.cfg`
-> Set up the `config.lua` options to your liking
-> Restart server
+> Drag and drop hm_moneywash into your resources folder and add `ensure hm_moneywash` to your `server.cfg`.
+
+> Set up the `config.lua` options to your liking.
+
+> Restart server.
 
 ## Usage
 
-> Press `E` at the npc to give him your dirty cash
-> You will be notified when he is done washing your money
-> Go and collect your clean cash before someone else does
+> Press `E` at the npc to give him your dirty cash.
+
+> You will be notified when he is done washing your money.
+
+> Go and collect your clean cash before someone else does.
